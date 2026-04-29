@@ -5,5 +5,3 @@
  
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RubimMoraes&layout=compact&theme=github_dark_dimmed&locale=pt-pt&border_radius=10" alt="Linguagens mais usadas por Rafael" height="180" />
 </p>
-
-#coco
